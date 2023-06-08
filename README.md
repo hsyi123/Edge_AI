@@ -23,5 +23,5 @@ $ python3 final_project.py
 ```
 * In the colab
 ```
-Download the Training.ipython
+Download the inference_sample.ipython
 ```
