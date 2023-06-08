@@ -23,8 +23,5 @@ $ python3 final_project.py
 ```
 * In the colab
 ```
-Download the Single_char_image_generator folder
-Download the Single_char_image_generator
-Download the .ipython
-put the test data under \Single_char_image_generator\test
+Download the Training.ipython
 ```
