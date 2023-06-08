@@ -16,11 +16,11 @@ cd Single_char_image_generator
 python -m pip install -r requirements.txt
 python OCR_image_generator_single_ch.py --num_per_word=10 -o test (or you can put the test data under the test folder, and you should create the test folder first) 
 
-Download the final_project.py
+Download the final_project.py under the Single_char_image_generator
 ```
 ```
 open terminal under Single_char_image_generator
-$ python3 final_project.py
+$ python3 final_project.py 
 ```
 * In the colab
 ```
